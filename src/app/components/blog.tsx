@@ -65,17 +65,17 @@ interface Comment {
       <h1>Faith – Trusting God</h1>
       <p>Faith is not just a feeling or a belief; it is the deep trust in God even when circumstances seem unclear, painful, or confusing. True faith begins where our sight ends — when we can no longer rely on what we see, but still choose to believe in God’s promises.
 
-In life, we all face moments when things don’t go as planned. Prayers may seem unanswered, challenges may become overwhelming, and the future may look uncertain. It is in these times that faith is truly tested. Trusting God beyond what we see means believing that He is working all things together for our good, even when we can’t trace His hand.
+<br/>In life, we all face moments when things don’t go as planned. Prayers may seem unanswered, challenges may become overwhelming, and the future may look uncertain. It is in these times that faith is truly tested. Trusting God beyond what we see means believing that He is working all things together for our good, even when we can’t trace His hand.
 
-Hebrews 11:1 reminds us, “Now faith is the substance of things hoped for, the evidence of things not seen.” This verse teaches us that faith involves trusting in God's unseen hand, His perfect timing, and His unshakable love. It means leaning not on our own understanding but surrendering to His divine will.
+<br/><b>Hebrews 11:1</b> reminds us, “Now faith is the substance of things hoped for, the evidence of things not seen.” This verse teaches us that faith involves trusting in God's unseen hand, His perfect timing, and His unshakable love. It means leaning not on our own understanding but surrendering to His divine will.
 
-Many great people of faith in the Bible demonstrated this kind of trust. Abraham believed God's promise of a son even when it seemed impossible. Moses followed God's command to lead Israel through the Red Sea without knowing how it would part. Mary accepted the angel’s message that she would bear the Savior of the world, even though she couldn’t see the full picture.
+<br/>Many great people of faith in the Bible demonstrated this kind of trust. Abraham believed God's promise of a son even when it seemed impossible. Moses followed God's command to lead Israel through the Red Sea without knowing how it would part. Mary accepted the angel’s message that she would bear the Savior of the world, even though she couldn’t see the full picture.
 
-Faith grows strongest not in comfort but in challenge. It is easy to trust when life is smooth. But when storms rage, faith becomes our anchor. It helps us say, “Even though I don’t see a way, I know God will make one.” Faith lifts our eyes beyond the natural and connects us to the supernatural — to a God who is greater than our problems.
+<br/><b>Faith</b> grows strongest not in comfort but in challenge. It is easy to trust when life is smooth. But when storms rage, faith becomes our anchor. It helps us say, “Even though I don’t see a way, I know God will make one.” Faith lifts our eyes beyond the natural and connects us to the supernatural — to a God who is greater than our problems.
 
-Faith also reminds us that we walk by faith, not by sight (2 Corinthians 5:7). We don’t always need to know the details because we know the One who holds the details. Trusting God beyond what we see builds our character, strengthens our spirit, and draws us closer to Him.
+<br/>Faith also reminds us that we walk by<b> faith</b>, not by <b>sight</b> (2 Corinthians 5:7). We don’t always need to know the details because we know the One who holds the details. Trusting God beyond what we see builds our character, strengthens our spirit, and draws us closer to Him.
 
-In every dark valley, in every delayed promise, and in every uncertain moment, may we learn to say, “Lord, I trust You.” Not because we see, but because we believe.</p>
+<br/>In every dark valley, in every delayed promise, and in every uncertain moment, may we learn to say, “Lord, I trust You.” Not because we see, but because we believe.</p>
       <p><b>Conclusion:</b> Faith means trusting God even when we can’t see the full picture. In times of doubt, delay, or darkness, true faith holds on to God’s promises. He knows what we don’t and sees beyond what we can. Even when life doesn’t make sense, we can say with confidence:
       <b>“Lord, I trust You.”</b></p>
       <div className="mt-8">

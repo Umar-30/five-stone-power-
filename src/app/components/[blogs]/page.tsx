@@ -1,6 +1,6 @@
 'use client';
 import { usePathname } from 'next/navigation';
-import { Blog1, Blog2, Blog3, Blog4, Blog5, Blog6 } from "../../components/blog";
+import { Blog1, Blog2, Blog3, Blog4, Blog5, Blog6 } from "../blog";
 
 export default function DynamicBlog() {
   const pathname = usePathname(); // e.g. /components/1
