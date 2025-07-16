@@ -74,7 +74,7 @@ export default function CourseSlider() {
                 </p>
                 <div className="mt-4 text-right">
                   <Link
-                    href={`/courses/${course.slug}`}
+                    href={`/course/${course.slug}`}
                     className="inline-block text-sm px-4 py-2 bg-yellow-500 text-white rounded-lg font-semibold hover:bg-yellow-600 transition"
                   >
                     Read More →
