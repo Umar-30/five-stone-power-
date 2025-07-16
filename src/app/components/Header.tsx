@@ -67,7 +67,7 @@ export default function Navbar() {
               <a href="/about" className="block text-gray-300 hover:text-white px-2 py-1 text-lg items-center">
                 <RiInboxArchiveLine className="w-5 h-5 mr-2" /> About
               </a>
-               <a href="/teaching" className="block text-gray-300 hover:text-white px-2 py-1 text-lg items-center">
+               <a href="/ministries" className="block text-gray-300 hover:text-white px-2 py-1 text-lg items-center">
               <LuNotebookPen className="w-5 h-5 mr-2" /> Services
             </a>
              <a href="/course" className="block text-gray-300 hover:text-white px-2 py-1 text-lg items-center">

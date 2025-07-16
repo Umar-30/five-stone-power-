@@ -34,9 +34,9 @@ export default function HeroSection() {
 
   return (
     <section
-      className="relative w-full h-screen bg-cover bg-center"
+      className="relative w-full h-screen bg-cover bg-center bg-no-repeat sm:bg-center sm:bg-cover"
       style={{ backgroundImage: "url('/image/five stone.jpg')" }}
-    >
+  >
       {/* Gradient Overlay */}
       <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/50 to-black/70 z-10" />
 
