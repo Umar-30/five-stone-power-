@@ -31,8 +31,8 @@ export default function Footer() {
                   href="/contact" className="text-gray-400 hover:text-white text-sm block mb-2">Contact</Link>
               </li>
               <li>
-                <Link href
-                  ="/explore" className="text-gray-400 hover:text-white text-sm block mb-2">Blog</Link>
+                <Link 
+                href="/allBlog" className="text-gray-400 hover:text-white text-sm block mb-2">Blog</Link>
               </li>
             </ul>
           </div>
